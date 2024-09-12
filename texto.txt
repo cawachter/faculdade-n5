@@ -1,0 +1,3 @@
+Oi, esta é a primeira linha do meu novo arquivo criado com python!
+E agora temos uma segunda linha.
+Olha que legal, coloquei uma terceira linha.
